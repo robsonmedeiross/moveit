@@ -1,0 +1,104 @@
+.chalengedBoxContainer{
+    height: 100%;
+    background-color: var(--white);
+    border-radius: 5px;
+    box-shadow: 0 0 60px rgba(0, 0, 0, 0.05);
+    padding: 1.5rem 2rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.chalengedBoxNotActive {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.chalengedBoxNotActive strong {
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.4;
+}
+
+.chalengedBoxNotActive p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 1.4;
+    max-width: 70%;
+    margin-top: 3rem;
+}
+.chalengedBoxNotActive p img {
+    margin-bottom:  1rem;
+}
+
+.chalengedBoxActive {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.chalengedBoxActive header {
+    color: var(--blue);
+    font-weight: 600;
+    font-size: 1.25rem;
+    padding: 0 2rem 1.5rem;
+    border-bottom: 1px solid var(--gray-line);
+}
+
+.chalengedBoxActive main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.chalengedBoxActive main strong{
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--tltle);
+    margin: 1.5rem 0 1rem;    
+}
+
+.chalengedBoxActive main p {
+    line-height: 1.5;
+}
+
+.chalengedBoxActive footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
+.chalengedBoxActive footer button{
+    height: 3rem;
+    font-size: 1rem;
+    font-weight: 600;
+    border: 0;
+    border-radius: 5px;
+    color: var(--white);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    transition: .2s;
+}
+
+.chalengedBoxActive footer button.chalengedBoxFaileButton{
+    background: var(--red);
+}
+
+.chalengedBoxActive footer button.chalengedBoxSuceedeButton{
+    background: var(--green);
+}
+
+.chalengedBoxActive footer button:hover{
+    filter: brightness(0.9)
+}
+
