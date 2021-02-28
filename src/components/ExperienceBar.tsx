@@ -1,4 +1,4 @@
-import { useContext, useEffect, useState } from 'react';
+import { useContext } from 'react';
 import { ChalengedContext } from '../contexts/ChalengedContext';
 import styles from'../styles/components/ExperienceBar.module.css';
 

@@ -1,4 +1,4 @@
-import { useContext, useState } from 'react';
+import { useContext } from 'react';
 import { ChalengedContext } from '../contexts/ChalengedContext';
 import { CountDownContext } from '../contexts/CountDownContext';
 import styles from '../styles/components/ChalengedBox.module.css';

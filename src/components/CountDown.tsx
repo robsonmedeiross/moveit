@@ -1,4 +1,4 @@
-import { useContext, useEffect, useState } from 'react';
+import { useContext } from 'react';
 import { CountDownContext } from '../contexts/CountDownContext';
 
 import styles from '../styles/components/CountDown.module.css';
