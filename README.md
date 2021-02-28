@@ -9,7 +9,7 @@ MoveIt
 
 A Aplicação tem o intuito de reduzir os problemas de articulação e dores nos olhos por causa da luminação causada pelo uso excessivo do computador ou de ficar numa possição por muito tempo, se baseando na técnica Pomodoro que é um método de gerenciamento de tempo alternando entre trabalhos/atividades e intervalos para um melhor desenvolvimento. A aplicação conta também com desafios, após cada ciclo de atividade, para melhorar a condição fisica, esses desafios são baseados em atividades simples recomendadas por especialistas da saúde.
 
-Projeto foi desenvolvido durante #NLW - Next Level Week oferecida pela [Rocketseat](https://github.com/rocketseat-education). #NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+Projeto foi desenvolvido durante #NLW - Next Level Week oferecida pela ![Rocketseat](https://github.com/rocketseat-education). #NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
 <h4 align="center"> 
 	🚧 Status 🚀: Em construção. 🚧
@@ -57,7 +57,7 @@ Como rodar o projeto
 🚀
 =================
 
-<p>Antes de começar, você vai precisar ter instalado em sua máquina as ferramentas [Git](https://github.com) para poder clonar o repositório e [NodeJS](https://nodejs.org/en), e se preferir instalar também o yarn que é um gerenciador de pacotes semelhante ao npm que já vem com o Node. Bem como ter um editor para trabalhar com o código como VSCode. </p>
+<p>Antes de começar, você vai precisar ter instalado em sua máquina as ferramentas ![Git](https://github.com) para poder clonar o repositório e ![NodeJS](https://nodejs.org/en), e se preferir instalar também o yarn que é um gerenciador de pacotes semelhante ao npm que já vem com o Node. Bem como ter um editor para trabalhar com o código como VSCode. </p>
 
 ```bash
 # Clone este repositório
