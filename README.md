@@ -49,7 +49,7 @@ Demonstração da aplicação
 
 <p><a href="https://moveit-robsonmedeiross.vercel.app/" >Link da aplicação</a></p>
 
-[![Vercel Status](http://therealsujitk-vercel-badge.vercel.app/?app=therealsujitk-vercel-badge)
+[Vercel Status](http://therealsujitk-vercel-badge.vercel.app/?app=therealsujitk-vercel-badge)
 
 ![Gif - MoveIt](https://github.com/robsonmedeiross/Assets-git/blob/main/Gif%20-%20move.it.gif)
 
