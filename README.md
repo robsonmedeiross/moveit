@@ -7,7 +7,7 @@ MoveIt
 
 #### Descrição do projeto
 
-A Aplicação tem o intuito de reduzir os problemas de articulação e dores nos olhos por causa da luminação causada pelo uso excessivo do computador ou de ficar numa possição por muito tempo, se baseando na técnica Pomodoro que é um método de gerenciamento de tempo alternando entre trabalhos/atividades e intervalos para um melhor desenvolvimento. A aplicação conta também com desafios, após cada ciclo de atividade, para melhorar a condição fisica, esses desafios são baseados em atividades simples recomendadas por especialistas da saúde.
+A Aplicação tem o intuito de reduzir os problemas de articulação e dores nos olhos por causa da iluminação causada pelo uso excessivo do computador ou de ficar numa posição por muito tempo, se baseando na técnica Pomodoro que é um método de gerenciamento de tempo alternando entre trabalhos/atividades e intervalos para um melhor desenvolvimento. A aplicação conta também com desafios, após cada ciclo de atividade, para melhorar a condição fisica, esses desafios são baseados em atividades simples recomendadas por especialistas da saúde.
 
 Projeto foi desenvolvido durante #NLW - Next Level Week oferecida pela [Rocketseat](https://github.com/rocketseat-education). #NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
