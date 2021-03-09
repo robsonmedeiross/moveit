@@ -1,4 +1,4 @@
-![Banner - MoveIt](https://github.com/robsonmedeiross/Assets-git/blob/main/Banner%20-%20moveit.jpg)
+![Banner - MoveIt](https://github.com/robsonmedeiross/Assets-git/blob/main/Banner%20-%20moveit.jpg?raw=true)
 
 
 MoveIt 
