@@ -19,8 +19,9 @@ export const CountDownContext = createContext({} as CountDownContextData);
 
 export function CountDownPrivider({ children }: CountDownContextProps){
     const { startNewChalenged } = useContext(ChalengedContext);
+    const timeMinutes = 0.05;
     
-    const [time, setTime] = useState(25 * 60);
+    const [time, setTime] = useState(timeMinutes * 60);
     const [active, setActive] = useState(false);
     const [hasFinished, setHasFinished] = useState(false);
     const minutes = Math.floor(time / 60);
@@ -35,7 +36,7 @@ export function CountDownPrivider({ children }: CountDownContextProps){
         clearTimeout(countDownTimeout);
         setActive(false);
         setHasFinished(false);
-        setTime(25 * 60)
+        setTime(timeMinutes * 60)
     }
 
     useEffect(() => {

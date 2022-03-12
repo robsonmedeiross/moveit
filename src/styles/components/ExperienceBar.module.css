@@ -21,11 +21,23 @@
     height: 4px;
     border-radius: 5%;
     background: var(--green);
+    transition: all 1s;
 }
 
 span.currentExperience {
    position: absolute;
    top: 12px;
    transform: translateX(-50%);
+   transition: all 1s;
 }
 
+span.ball{
+    width: 10px ;
+    height: 10px;
+    border-radius: 50%;
+    position: absolute;
+    top: -3px;
+    transform: translateX(-50%);
+    background: var(--green);
+    transition: all 1s;
+}
